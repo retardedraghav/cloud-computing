@@ -29,4 +29,5 @@ function goToDay($day)
     unset($_SESSION["result_message"]);
 }
 
+
 ?>

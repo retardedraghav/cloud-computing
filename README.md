@@ -86,3 +86,4 @@ Because the app is plain PHP with no database, any PHP host can run it, for exam
 - MySQL database for saved progress
 - More events and personalities
 - Multiple players / leaderboard
+

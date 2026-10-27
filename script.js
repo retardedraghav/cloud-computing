@@ -12,3 +12,4 @@ function showFinalLine() {
     document.getElementById("second-line").style.display = "none";
     document.getElementById("final-line").style.display = "block";
 }
+
